@@ -15,6 +15,7 @@ This project analyzes Amazon Prime content and recommends similar movies and TV 
 
 - Dataset: Amazon Prime Movies and TV Shows
 - Features: Title, Type, Director, Cast, Country, Genre, Rating, Description, Release Year, Duration
+- 
 
 ## 🔍 Exploratory Data Analysis
 
@@ -104,3 +105,4 @@ The KNN model successfully recommends movies and TV shows with similar content b
 ## 👩‍💻 Author
 
 **Diya Pathak**
+https://apc01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fdeloitteus.avature.net%2Fltrk%2FeyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MzE3MzI4NTgsImhhc2giOiJlNzc1NDM3OTAwYTI5ODg5MjVlYWMyMWJlNjRjMmJjMGFlMmU4MDc4OWYyZmQ1Yjc5NmJhYWMwMmVhNDFkMzlkIn0.BLjPdZf2-mRngmP5lsWtnDwcHNJs17WjxmvxO8l1QK0&data=05%7C02%7CDiya.Pathak%40gapps.cognizant.com%7C61e6901e95ec49204fd308dee656da23%7Cde08c40719b9427d9fe8edf254300ca7%7C0%7C0%7C639201457886551834%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=ve%2BDMUFAJQT9H8b%2BWEHo6Ll2hakx%2Bjp9%2BpPzAIW08t0%3D&reserved=0
